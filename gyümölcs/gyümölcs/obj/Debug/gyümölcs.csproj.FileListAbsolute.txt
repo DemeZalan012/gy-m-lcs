@@ -1,0 +1,11 @@
+C:\Users\demezalan\Documents\c# kodok\gyümölcs\gyümölcs\bin\Debug\gyümölcs.exe.config
+C:\Users\demezalan\Documents\c# kodok\gyümölcs\gyümölcs\bin\Debug\gyümölcs.exe
+C:\Users\demezalan\Documents\c# kodok\gyümölcs\gyümölcs\bin\Debug\gyümölcs.pdb
+C:\Users\demezalan\Documents\c# kodok\gyümölcs\gyümölcs\obj\Debug\gyümölcs.csproj.AssemblyReference.cache
+C:\Users\demezalan\Documents\c# kodok\gyümölcs\gyümölcs\obj\Debug\gyümölcs.Properties.Resources.resources
+C:\Users\demezalan\Documents\c# kodok\gyümölcs\gyümölcs\obj\Debug\gyümölcs.csproj.GenerateResource.cache
+C:\Users\demezalan\Documents\c# kodok\gyümölcs\gyümölcs\obj\Debug\gyümölcs.csproj.CoreCompileInputs.cache
+C:\Users\demezalan\Documents\c# kodok\gyümölcs\gyümölcs\obj\Debug\gyümölcs.exe
+C:\Users\demezalan\Documents\c# kodok\gyümölcs\gyümölcs\obj\Debug\gyümölcs.pdb
+C:\Users\demezalan\Documents\c# kodok\gyümölcs\gyümölcs\obj\Debug\gyümölcs.exe.config
+C:\Users\demezalan\Documents\c# kodok\gyümölcs\gyümölcs\obj\Debug\gyümölcs.Form1.resources
